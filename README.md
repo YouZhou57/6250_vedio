@@ -1,1 +1,1 @@
-# 6250_video
+# 6250_lab instructions and videos
